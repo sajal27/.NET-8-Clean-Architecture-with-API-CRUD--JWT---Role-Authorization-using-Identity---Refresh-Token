@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\API.csproj": {}
+    "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\API.csproj": {
+    "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\javia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\API\\obj\\",
+        "projectPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\javia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Infrastructure.csproj"
+              "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Infraestructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Infraestructure\\Infrastructure.csproj"
               }
             }
           }
@@ -79,21 +79,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\Application.csproj": {
+    "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\javia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\obj\\",
+        "projectPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\javia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,21 +161,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Domain\\Domain.csproj": {
+    "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\javia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Domain\\obj\\",
+        "projectPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\javia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -227,21 +227,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Infrastructure.csproj": {
+    "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Infraestructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Infraestructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\javia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Infraestructure\\obj\\",
+        "projectPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Infraestructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\javia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -255,11 +255,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Application\\Application.csproj"
+              "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Application\\Application.csproj": {
+                "projectPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Application\\Application.csproj"
               },
-              "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\javia\\Desktop\\CrudCleanArchitecture\\CrudCleanArchitecture\\Domain\\Domain.csproj"
+              "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projects\\CodePractise\\jwtTokenbasedAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -322,7 +322,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
